@@ -31,8 +31,8 @@ Este repositório reúne projetos, exemplos de código em diversas linguagens vo
 
 <div align="center">
   <a href="https://github.com/brunop-lima">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=brunop-lima&show_icons=true&theme=Dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunop-lima&layout=compact&langs_count=7&theme=Dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunop-lima&show_icons=true&theme=Dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunop-lima&layout=compact&langs_count=7&theme=Dark"/>
 </div>
 
 <br />
