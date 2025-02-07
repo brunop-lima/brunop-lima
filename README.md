@@ -20,13 +20,14 @@ Este repositório reúne projetos, exemplos de código em diversas linguagens vo
 
 <br />
 
-[![Rafael Queiróz profile views](https://u8views.com/api/v1/github/profiles/60499241/views/day-week-month-total-count.svg)](https://u8views.com/github/brunop-lima)
+[![Bruno Lima profile views](https://u8views.com/api/v1/github/profiles/60499241/views/day-week-month-total-count.svg)](https://u8views.com/github/brunop-lima)
 
-<h2>Contatos</h2>
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:rafaelproinfo@gmail.com)
-
-<h2>Github Statistics</h2>
+<div> 
+  <a href="https://www.instagram.com/cheke_pl/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/brunoplima01/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href ="mailto:brunopereiralima01@gmail.com"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/users/122502526971936769" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 <div align="center">
   <a href="https://github.com/brunop-lima">
