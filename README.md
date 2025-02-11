@@ -1,4 +1,4 @@
-<img align="right" width="40%" href="https://storyset.com/work">Work illustrations by Storyset</a>">
+<img align="right" width="40%" src="https://github.com/brunop-lima/brunop-lima/blob/main/Code%20typing-bro.svg">
 
 # Bem-vindo(a) ao meu GitHub! 
 
