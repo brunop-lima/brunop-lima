@@ -72,6 +72,17 @@ Este repositório reúne projetos, exemplos de código em diversas linguagens vo
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
   <img align="center" alt="Bru-Bootstrap" height="30" width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Tailwind" height="30" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="React" height="30" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="Yarn" height="30" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg">
+  <img align="center" alt="NodeJS" height="30" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="ViteJS" height="30" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
+          
     
 <div> 
 
